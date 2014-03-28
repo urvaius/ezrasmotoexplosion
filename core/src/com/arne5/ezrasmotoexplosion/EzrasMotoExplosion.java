@@ -20,6 +20,7 @@ public class EzrasMotoExplosion extends ApplicationAdapter {
     Sound dropSound;
     Music rainMusic;
     Rectangle bucket;
+
     OrthographicCamera camera;
 
 	
@@ -65,7 +66,7 @@ public class EzrasMotoExplosion extends ApplicationAdapter {
 
 		batch.end();
 
-        //move the bucket change to a bike later
+        //move the bucket change to a bike later yes
         if(Gdx.input.isTouched()){
             Vector3 touchPos = new Vector3();
             touchPos.set(Gdx.input.getX(),Gdx.input.getY(),0);

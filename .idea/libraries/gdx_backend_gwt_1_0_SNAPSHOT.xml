@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="gdx-backend-gwt-1.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.0-SNAPSHOT/44643e17e250f653ffe188761f7bcd7324f252f2/gdx-backend-gwt-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.0-SNAPSHOT/aac5408ff84cadd27c0f29fcc4776b98e51e4abf/gdx-backend-gwt-1.0-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.0-SNAPSHOT/ea927a7ca1e10d84569fe4ed2caa3bc56d69e12c/gdx-backend-gwt-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.0-SNAPSHOT/c239410d2b263a428ee4620e97de39990fe5f271/gdx-backend-gwt-1.0-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
