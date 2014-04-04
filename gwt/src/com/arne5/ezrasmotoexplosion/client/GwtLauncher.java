@@ -1,5 +1,6 @@
 package com.arne5.ezrasmotoexplosion.client;
 
+import com.arne5.ezrasmotoexplosion.EzrasMotoExplosion;
 import com.arne5.ezrasmotoexplosion.GameScreen;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
@@ -15,6 +16,6 @@ public class GwtLauncher extends GwtApplication {
 
         @Override
         public ApplicationListener getApplicationListener () {
-                return new GameScreen();
+                return new EzrasMotoExplosion();
         }
 }
