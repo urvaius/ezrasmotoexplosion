@@ -5,7 +5,6 @@ import org.robovm.cocoatouch.uikit.UIApplication;
 
 import com.badlogic.gdx.backends.iosrobovm.IOSApplication;
 import com.badlogic.gdx.backends.iosrobovm.IOSApplicationConfiguration;
-import com.arne5.ezrasmotoexplosion.EzrasMotoExplosion;
 
 public class IOSLauncher extends IOSApplication.Delegate {
     class InnerClass {
@@ -14,7 +13,7 @@ public class IOSLauncher extends IOSApplication.Delegate {
     @Override
     protected IOSApplication createApplication() {
         IOSApplicationConfiguration config = new IOSApplicationConfiguration();
-        return new IOSApplication(new EzrasMotoExplosion(), config);
+        return new IOSApplication(new GameScreen(), config);
     }
 
     public static void main(String[] argv) {
