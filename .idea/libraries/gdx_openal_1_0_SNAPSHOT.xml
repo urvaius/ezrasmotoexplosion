@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="gdx-openal-1.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-openal/1.0-SNAPSHOT/a34eb272296f8acf97f84505c17498b6c13b426e/gdx-openal-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-openal/1.0-SNAPSHOT/bf30e6bfd6423d923a7bbb3ef36c29a8f741477a/gdx-openal-1.0-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-openal/1.0-SNAPSHOT/fc0faa079781143330e628e3fa0fba33b2386751/gdx-openal-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-openal/1.0-SNAPSHOT/4dfd6bb5fde662aa2e3a95251fe3c482713e1539/gdx-openal-1.0-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
