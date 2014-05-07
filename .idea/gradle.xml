@@ -5,15 +5,14 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle/gradle-1.10" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/android" />
-            <option value="$PROJECT_DIR$/core" />
-            <option value="$PROJECT_DIR$/desktop" />
-            <option value="$PROJECT_DIR$/gwt" />
-            <option value="$PROJECT_DIR$/ios" />
+            <option value="C:\Development\GitHub\ezrasmotoexplosion" />
+            <option value="C:\Development\GitHub\ezrasmotoexplosion\android" />
+            <option value="C:\Development\GitHub\ezrasmotoexplosion\core" />
+            <option value="C:\Development\GitHub\ezrasmotoexplosion\desktop" />
+            <option value="C:\Development\GitHub\ezrasmotoexplosion\gwt" />
+            <option value="C:\Development\GitHub\ezrasmotoexplosion\ios" />
           </set>
         </option>
       </GradleProjectSettings>
