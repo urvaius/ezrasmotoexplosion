@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="gdx-backend-android-1.0.2-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.0.2-SNAPSHOT/47ea7d7ff32d102d6fb3d0adb6c1fde1e116830d/gdx-backend-android-1.0.2-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.0.2-SNAPSHOT/66ab12428d9db723a870bc5fee24820559e885c/gdx-backend-android-1.0.2-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.0.2-SNAPSHOT/1a1189a50db75b806bbbfe2030047c7079666e30/gdx-backend-android-1.0.2-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.0.2-SNAPSHOT/6465a57adf2486b728e05d0fbd51a964eab2abf6/gdx-backend-android-1.0.2-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gdx-1.0.2-SNAPSHOT-sources">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.0.2-SNAPSHOT/190c4e2a9d818e18f88e192a801b8a3465af899e/gdx-1.0.2-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.0.2-SNAPSHOT/5799143a6d9b6a3b7b0a367c0c2a58916511433e/gdx-1.0.2-SNAPSHOT-sources.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
