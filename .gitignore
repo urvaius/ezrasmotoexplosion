@@ -12,7 +12,8 @@ libs/
 .settings/
 .ipr
 .iml
-
-
+.iws
+.idea/workspace.xml
+.idea/tasks.xml
 
 /local.properties
